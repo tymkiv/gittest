@@ -1,3 +1,3 @@
-const a1 = "11";
-const a2 = "12";
-const a3 = "13";
+const a1 = "reset11";
+const a2 = "reset12";
+const a3 = "reset13";
